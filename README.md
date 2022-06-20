@@ -32,4 +32,17 @@ Variables are containers that hold a value
 2. Can only contains numbers, letters, and underscores ( _ )
    `my name = " hao "` --> not allowed
 3. If more than one word, use camelCase or underscores to separate words `myFirstName or my_first_name `
-4. 
+
+## Concatenation
+`+` Adding strings together, appending(add to end)
+`"Hello " + "World"` = `"Hello Worrld"`
+
+## Type Cast
+Forcing a data type on a value
+
+### To force an integer into a string
+`str(variableName)`
+
+### To force a string into an integer
+`int(variableName)`
+
